@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\baitapxulyanhso.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\baitapxulyanhso.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\baitapxulyanhso.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\project1.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\project1.frmTruyenthamso.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\project1.frmtruyenthamso1.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\project1.frmTruyenthamsohemau.resources
